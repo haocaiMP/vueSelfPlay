@@ -8,6 +8,7 @@
     <!-- <PullUp /> -->
     <!-- <Rate /> -->
     <stateTest />
+    <slide />
   </div>
 </template>
 
@@ -18,6 +19,7 @@
 // import PullUp from './components/PullUp.vue'
 import Rate from './components/Rate.vue'
 import stateTest from './components/stateTest.vue'
+import slide from './components/Slide.vue'
 export default {
   name: 'App',
   components: {
@@ -26,7 +28,8 @@ export default {
       // Pop,
       // PullUp,
       // Rate,
-      stateTest 
+      stateTest,
+      slide
   },
   methods: {
       // aa() {
