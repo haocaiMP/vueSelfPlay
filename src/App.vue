@@ -9,6 +9,7 @@
     <!-- <Rate /> -->
     <stateTest />
     <slide />
+    <div>hahaha</div>
   </div>
 </template>
 
